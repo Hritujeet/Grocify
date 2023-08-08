@@ -1,0 +1,20 @@
+:hover.hoverTxt{
+    text-decoration: underline;
+}
+
+.largeTxt{
+    font-size: 1.75rem;
+}
+
+.headings{
+    font-size: 1.6rem;
+    font-weight: 700;
+    cursor: default;
+}
+
+.subNav{
+    height: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
